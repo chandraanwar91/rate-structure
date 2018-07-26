@@ -1,0 +1,7 @@
+test:
+  driver: mysql
+  open: root:root@tcp(localhost:3306)/jasmine_feed_out
+
+development:
+  driver: mysql
+  open: root:root@tcp(localhost:3306)/jasmine_feed_out
